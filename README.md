@@ -1,9 +1,39 @@
-## Hi there 👋
+# Hi, I'm Shubham Prasad 👋
 
-<!--
-**shubham00-stack/shubham00-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in programming,
+problem-solving and software development.
+
+### 👨‍💻 About Me
+- 🎓 Pursuing B.Tech in Computer Science
+- 💻 Learning Data Structures and Algorithms
+- 🌱 Improving my programming skills
+- 🚀 Building projects and exploring new technologies
+
+### 🛠️ Technical Skills
+- C
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+### 📌 Projects
+- Portfolio Website
+- Flashcard Generator
+- OpenAI API Lab
+- Gemini API Lab
+- Chatbot-multiple AI models
+- Cliffhanger
+
+### 🌐 Connect With Me
+- Portfolio: https://shubham00-stack.github.io/portfolio/
+- https://www.instagram.com/shubham.prasad_28?lqvp=aHJ0c3dpMmR4cTR6&utm_source=qr
+
+---
+*Always learning. Always building.
+*Tech and Tea
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
